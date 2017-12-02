@@ -1,4 +1,3 @@
-<h1> </h1>
 <h1><span style="font-family: 'trebuchet ms', geneva, sans-serif;">TRAINING WORKSHOP ON DATA ANALYSIS (BEGINNER LEVEL) USING STATA</span></h1>
 <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">This repository contains the materials prepared by <a title="Emmanuel Ọlámíjùwọ́n | Emmanuel Ọlámíjùwọ́n | Health Researcher | Digital Demographer" href="http://e.olamijuwon.com/" target="_blank" rel="noopener noreferrer">Emmanuel Olamijuwon</a> (<a title="Institute for Health Measurement, Swaziland" href="http://www.ihmafrica.org" target="_blank" rel="noopener noreferrer">Institute for Health Measurement, Swaziland</a>) for Training workshop on data analysis using STATA.</span></p>
 <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"> </span></p>
