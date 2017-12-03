@@ -3,15 +3,15 @@
 <h1><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Setup</span></h1>
 <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Download the relevant sample data files including:</span></p>
 <ul>
-<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="PMTCT Data | CMIS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/PMTCT_CMIS.xlsx">PMTCT Data</a> - from CMIS</span></li>
-<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="HIV Testing Services | CMIS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/HTS_CMIS.xlsx">HIV Testing Services</a> - from CMIS</span></li>
-<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="HIV Testing Services | HMIS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/HMIS%20HTS_Sept%202017_rev.xlsx">HIV Testing Services</a> - from HMIS</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="PMTCT Data | CMIS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/datasets/PMTCT_CMIS.xlsx">PMTCT Data</a> - from CMIS</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="HIV Testing Services | CMIS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/datasets/HTS_CMIS.xlsx">HIV Testing Services</a> - from CMIS</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="HIV Testing Services | HMIS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/datasets/HMIS%20HTS_Sept%202017_rev.xlsx">HIV Testing Services</a> - from HMIS</span></li>
 </ul>
 <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Other datasets that we will be working with are:</span></p>
 <ul>
-<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Child Recode Data | DHS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/DHS_ch.DTA">Child Recode Data</a> - from DHS</span></li>
-<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Women Recode Data | MICS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/MICS_wm.dta">Women Recode Data</a> - from MICS</span></li>
-<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Women Recode Data | DHS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/DHS_wm.dta">Women Recode Data</a> - from DHS</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Child Recode Data | DHS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/datasets/DHS_ch.DTA">Child Recode Data</a> - from DHS</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Women Recode Data | MICS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/datasets/MICS_wm.dta">Women Recode Data</a> - from MICS</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Women Recode Data | DHS" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/datasets/DHS_wm.dta">Women Recode Data</a> - from DHS</span></li>
 </ul>
 <h1><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Schedule</span></h1>
 <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">This is an approximate schedule for a week.</span></p>
@@ -235,9 +235,9 @@
 <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">STATA has a generous and welcoming community of users at - <a title="The STATA Forum | STATA List" href="https://www.statalist.org/">The STATA Forum</a>. I encourage you to <a title="register | STATALIST" href="https://www.statalist.org/forums/register" target="_blank" rel="noopener noreferrer">create an account</a> to join the community.</span></p>
 <p> <span style="font-family: 'trebuchet ms', geneva, sans-serif;">There are also a number of e-books on data analysis using STATA. Some of these are:</span></p>
 <ol>
-<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Statistics with STATA" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/Lawrence%20C.%20Hamilton-Statistics%20with%20STATA_%20Version%2012-Cengage%20Learning%20(2012).pdf" target="_blank" rel="noopener noreferrer">Statistics with STATA</a> - by Lawrence Hamilton</span></li>
-<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="A brief guide to STATA Commands" href="Brief Guide To Stata Commands (1999).pdf">A brief guide to STATA Commands</a> - by Uslaner</span></li>
-<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Statistics for people who think they hate statistics" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/Statistics%20for%20People%20Who%20(Think%20They)%20Hate%20Statistics.pdf" target="_blank" rel="noopener noreferrer">Statistics for people who think they hate statistics</a> - by Neil Salkind</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Statistics with STATA" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/resources/Lawrence%20C.%20Hamilton-Statistics%20with%20STATA_%20Version%2012-Cengage%20Learning%20(2012).pdf" target="_blank" rel="noopener noreferrer">Statistics with STATA</a> - by Lawrence Hamilton</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="A brief guide to STATA Commands" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/resources/Uslaner%20-Brief%20Guide%20To%20Stata%20Commands%20(1999).pdf">A brief guide to STATA Commands</a> - by Uslaner</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a title="Statistics for people who think they hate statistics" href="https://github.com/eolamijuwon/MoH-advanced-data-analysis/blob/master/resources/Statistics%20for%20People%20Who%20(Think%20They)%20Hate%20Statistics.pdf" target="_blank" rel="noopener noreferrer">Statistics for people who think they hate statistics</a> - by Neil Salkind</span></li>
 </ol>
 <p> </p>
 <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>#ThePhilippiSaying -</strong> Those things, which ye will learn, receive, hear, and see us do, be prepared to do: and commit unto other faithful analysts who will teach others the same.</span></p>
