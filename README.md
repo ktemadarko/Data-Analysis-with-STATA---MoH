@@ -19,7 +19,7 @@
 <table style="height: 319px; margin-left: 30px; width: 627px;">
 <tbody>
 <tr style="height: 15px;">
-<td style="width: 136.8px; height: 15px;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"> 09:00 - 11:00</span></td>
+<td style="width: 136.8px; height: 15px;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"> 08:00 - 11:00</span></td>
 <td style="width: 475.2px; height: 15px;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"> <strong>MORNING SESSION: RECAP</strong></span></td>
 </tr>
 <tr style="height: 91px;">
